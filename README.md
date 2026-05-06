@@ -19,14 +19,17 @@ Especialista em Análise de Dados e Desenvolvedor RPA com DNA financeiro. Mais d
             src="https://custom-icon-badges.demolab.com/github/followers/Felipehormigo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="felipehormigo.ggtechsolutions.com.br">
+    <a href="https://felipehormigo.ggtechsolutions.com.br/">
         <img 
             alt="Portfolio" 
             title="Portfolio" 
-            src="https://custom-icon-badges.demolab.com/logo=portifoliocolor=236ad3&labelColor=1155ba&style=for-the-badge&?logo=portifolio=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/stars/Felipehormigo?color=55960c&style=for-the-badge&labelColor=4c4c4c&logo=l&label=Portfolio""
 </p>
 
+### 🔥 Citação para viver
 ---
+> 🧠 **`"Dados são o novo petróleo — mas só têm valor quando estão limpos, integrados e acessíveis para quem precisa tomar decisão." -Clive Humby`**
+
 
 ## 💼 Funções atuais
 
@@ -127,6 +130,4 @@ src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png"
 
 ---
 
-### 🔥 Citação para viver
 
-> 💡 **`"Dados são o novo petróleo — mas só têm valor quando estão limpos, integrados e acessíveis para quem precisa tomar decisão." -Clive Humby`**
