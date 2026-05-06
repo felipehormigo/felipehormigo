@@ -1,6 +1,6 @@
 # Olá! Eu sou Felipe Hormigo 👋🏼 👨🏻‍💻
 
-**`Data Analyst`** **`Developer RPA`** **`Web Developer`**
+**`▫️Data Analyst`** **`▫️Developer RPA`** **`▫️Web Developer`**
 
 Especialista em Análise de Dados e Desenvolvedor RPA com DNA financeiro. Mais de uma década apoiando decisões críticas sob pressão. Especialista em converter desafios de negócio em fluxos automatizados e insights baseados em dados. 🚀
 
@@ -23,20 +23,23 @@ Especialista em Análise de Dados e Desenvolvedor RPA com DNA financeiro. Mais d
         <img 
             alt="Portfolio" 
             title="Portfolio" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Felipehormigo?color=55960c&style=for-the-badge&labelColor=4c4c4c&logo=l&label=Portfolio""
+            src="https://custom-icon-badges.demolab.com/badge/Portfolio-4c4c4c?style=for-the-badge&logo=l&color=4c4c4c&logoColor=black""
+        />
+    </a>
 </p>
 
-### 🔥 Citação para viver
-
-> **`"Dados são o novo petróleo — só têm valor quando estão limpos, integrados e acessíveis para quem precisa tomar decisão." - Clive Humby`**
-
+### 🧠 Citação para viver
+```text
+"Dados são o novo petróleo — só têm valor quando estão limpos, integrados e acessíveis para quem precisa tomar decisão."
+                                                            - Clive Humby
+```
 ---
 
 ### 💼 Funções atuais
-
-> ▫️ **`CTO @GG Tech;`**  
-> ▫️ **`Analista de Dados Pleno @Teddy Open Finance`**
-
+```text
+> ▫️ CTO @GG Tech
+> ▫️ Analista de Dados Pleno @Teddy Open Finance
+```
 ---
 
 ### 🛠️ O que eu construo
