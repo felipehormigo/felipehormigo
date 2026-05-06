@@ -27,21 +27,23 @@ Especialista em Análise de Dados e Desenvolvedor RPA com DNA financeiro. Mais d
 </p>
 
 ### 🔥 Citação para viver
----
+
 > 🧠 **`"Dados são o novo petróleo — mas só têm valor quando estão limpos, integrados e acessíveis para quem precisa tomar decisão." -Clive Humby`**
+---
 
-
-## 💼 Funções atuais
+### 💼 Funções atuais
 
 > 🔸 **`CTO @GG Tech;`**
 
 > 🔸 **`Analista de Dados Pleno @Teddy Open Finance`**
+---
 
-## 🛠️ O que eu construo
+### 🛠️ O que eu construo
 
 - Aplicações SaaS [Pessoais e Empresariais] - Sistemas POS, CRM, ERP;
 - Soluções em Automações - Rotinas, Tarefas, Workflow;
 - Arquiteturas e Analise em Banco de Dados - SQL, Postgree
+---
 
 ### 💻 Pilha de tecnologia
 
