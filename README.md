@@ -31,7 +31,7 @@ Especialista em Análise de Dados e Desenvolvedor RPA com DNA financeiro. Mais d
 ### 🧠 Citação para viver
 ```text
 "Dados são o novo petróleo — só têm valor quando estão limpos, integrados e acessíveis para quem precisa tomar decisão."
-                                                            - Clive Humby
+- Clive Humby
 ```
 ---
 
